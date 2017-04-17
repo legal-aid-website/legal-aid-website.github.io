@@ -43,8 +43,14 @@ function addButton(buttonName, nextId, buttonDiv) {
     let button = document.createElement('a');
     button.innerHTML = buttonName;
     button.className = "btn btn-default btn-lg btn-block";
-    button.setAttribute('href', "question.html?id=" + nextId);
     button.setAttribute('role', 'button');
+    nextIdSplit = nextId.toString().split('.');
+    if (nextIdSplit.length == 1) {
+        button.setAttribute('href', "question.html?id=" + nextId);
+    } else {
+        button.setAttribute('href', nextId);
+        //button.setAttribute('download', "proposed_file_name");
+    }
     buttonDiv.appendChild(button);
 }
 
