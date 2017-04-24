@@ -1,105 +1,37 @@
-id,heading,body,button1name,button1link,button2name,button2link,button3name,button3link
-,,,,,,,,
-1,"First, we need to know...","Have you ever been sued by a company that says you owe them money?
-<br><br>
-You should have received a paper named ""Civil Warrant,"" or ""Sworn Account.""
-<br><br>
-The ""Civil Warrant"" would say for ""any lawful officer"" to ""summon"" you (with your name on the paper) to appear in a court.
-<br><br>
-The ""Sworn Account"" should swear that you owe a company money and be signed by that company.""",Yes,2,No,3,More Info About a Sworn Account,Debt Collection Sworn Account.pdf
-,,,,,,,,
-2,Do you recognize the debt collector?,"Is the company calling or mailing you one that you knew you owed money to?
-<br><br>
-(Did you have a credit card with them, buy a car from them, or borrow money from them?)",Yes,4,No,5,,
-,,,,,,,,
-3,Do you recognize the debt collector?,"Is the company calling or mailing you one that you knew you owed money to?
-<br><br>
-(Did you have a credit card with them, buy a car from them, or borrow money from them?)",Yes,4,No,6,,
-,,,,,,,,
-4,"Debt laws don't apply to your situation, but we can still help you.","Because the company suing you is the one you originally borrowed money from, the debt collection laws do not apply to your debt.
-<br><br>
-There are ways to lower the amount of money you will need to pay each month. Follow the button below to learn about them.",Learn More About Lowering Your Monthly Payments,7,,,,
-,,,,,,,,
-5,Have you been sued about this debt and lost in court?,"This could happen in a couple of ways:
-<br><br>
-If you were sued and went to court, and the judge said the company won, then click ""Yes"" and follow the instructions""
-<br><br>
-If you were sued and did not go to court, then click ""Yes"" and follow the instructions\nIf you went to court and made an agreement with the company suing you, click ""Yes"" and follow the instructions",Yes,7,No,8,,
-,,,,,,,,
-6,You have rights!,"The law tells bill collectors what they can and can't legally do when they try to collect money from you!
-<br><br>
-Most importantly, a bill collector must send you proof that they have the right to collect your debt! Without that, you should not owe them money.
-<br><br>
-Continue on to learn how to stop the harassing calls and letters!",Learn How to Stop Harassing Calls,9,Learn How to Stop Harassing Letters,10,,
-,,,,,,,,
-7,You can make your payments affordable!,"You may be able to make the amount of money you pay each month smaller. You can file a Slow Pay application to reduce the amount of money you must pay every month. You can also file a Personal Property Exemption to make sure certain pieces of your property can't be used to pay off your debt.
-<br><br>
-You can learn more information about Personal Property Exemptions or Slow Pay Motions on the following pages.",Learn More About Personal Propery Exemptions,11,Learn More About Slow Pay Motions,12,,
-,,,,,,,,
-8,We need to know about your property,"You can decide whether you want to go to Court and fight the debt. If you have any of the following, you should go to the Court to protect yourself:
-<br><br>
-1. Money in a bank account
-<br><br>  
-2. A car that you own
-<br><br>  
-3. A home that you own or that is worth more money than you still owe on it
-<br><br>  
-4. A job that gives you a paycheck (this does not include checks that you get from social security or disability), Do you have any of the above?",Yes,13,No,14,,
-,,,,,,,,
-9,You can stop their phone calls in your workplace!,"You must ask debt collectors by mail to stop their phone calls to your work.
-<br><br>
-Download and print the letter below and fill it out to send to the harassing collector(you can email the letter to yourself to print on a computer if your phone isn't connected to a printer).",Download Letter,Bill Collectors.pdf,,,,
-,,,,,,,,
-10,You can stop their letters!,"You must ask them by mail to stop contacting you. If you use the letter below, they may only contact you to show proof of what you owe or to tell you they are suing you.
-<br><br>
-Download, print and fill out the letter below (you can email the letter to yourself to print on a computer if your phone is not connected to a printer).",Download Letter,Bill Collectors.pdf,,,,
-,,,,,,,,
-11,What is a Personal Property Exemption?,"A Personal Property Exemption is a paper you can file with the court to protect certain kinds of property you own from being taken and sold to pay off your debt.
-<br><br>
-This can save up to $10,000 worth of personal property including money, furniture, cars and other kinds of property except for land.
-<br><br>
-Talk to the Court Clerk or your local Legal Aid Society office to get more information on filing a Personal Property Exemption, which usually costs around $25.",More Information,PPE.pdf,Learn More About Slow Pay Motions,12,,
-,,,,,,,,
-12,What is a Slow Pay Motion?,"If you and the debt collector can't agree to a payment plan you can afford, then you can file a paper called a Stay of Garnishment and Slow Pay Motion with the court. A clerk at the court can help you file this.
-<br><br>
-Once you have filed a Slow Pay Motion, the Clerk will ask you to come back to court on a specific day. Before that day you should write down your monthly bills to show the judge, like your rent, lights and heat, food and other necessary costs.
-<br><br>
-When you come back to court on the day you are told to, the judge will ask you questions about your income and the people you support and decide how much you need to pay each month. Make sure you can afford the amount of money you tell the judge you can pay each month.
-<br><br>
-If an emergency makes you have to miss your court date, call the court and let them know as soon as possible!",More Information,Slow Pay Motion.pdf,Learn More About Personal Property Exemptions,11,,
-,,,,,,,,
-13,You should go to court.,"If you do not show up, the debt collector will likely take money from your bank account or take things you own like your car or your home pay off your debts.
-<br><br>
-Do not panic!
-<br><br>
-There are multiple steps you can take to help ensure this does not happen.
-<br><br>
-Before you go to court, you should file a Sworn Denial. A Sworn Denial means you don't know if you owe the money to the company saying you owe them. It does not mean you don't owe them money. It means you want them to prove you owe the money.
-<br><br>
-You can write a letter to the collector to determine what debt they are talking about if you are unsure.
-<br><br>
-There are some things you should know about when you go to court. Follow the button below to find out more about the process of representing yourself in court.",Tell Me More About a Sworn Denial,15,Tell Me More About Writing a Letter,16,Tell Me More About Going to Court,17
-,,,,,,,,
-14,Consider using a Personal Property Exemption,"Even though you do not have any of the things on the previous page that a collector could take to pay off your debt, it's smart and safe to file a Personal Property Exemption.
-<br><br>
-A Personal Property Exemption is a paper you can file with the court to protect certain kinds of property you own from being taken and sold to pay off your debt.
-<br><br>
-This can save up to $10,000 worth of personal property including money, furniture, cars and other kinds of property.
-<br><br>
-Talk to the Court Clerk or your local Legal Aid Society office to get more information on filing a Personal Property Exemption which usually costs around $25.",More Information,PPE.pdf,,,,
-,,,,,,,,
-15,Sworn Denials,"A Sworn Denial tells the Court that you deny owing the debt to the person or company trying to collect on it and that you demand proof that you owe the debt.
-<br><br>
-You can download and print the letter below to use as a Sworn Denial at the Courthouse. (You can email the letter to yourself after downloading it if your phone isn't connected to a computer).
-<br><br>
-DO NOT FILL OUT THE LETTER UNLESS you are in front of a notary! If you do not know where to find a notary, take your Sworn Denial to the Courthouse. The Clerks there can sign as notaries.",More Info about Sworn Denials,LAS Sworn Denial.pdf,,,,
-,,,,,,,,
-16,Writing a Letter,"Use the Letter below to demand the debt collector show proof of your debt and clarify what exactly it is you owe if you do not remember owing the money. You can download and print the letter from this app, or you can email the letter to yourself if your phone isn't connected to a printer.
-<br><br>
-This letter will also tell the collector to stop contacting you about the debt for any reason other than to explain the debt that you owe and why you owe it.",Download Letter,Bill Collectors.pdf,,,,
-,,,,,,,,
-17,What to expect in court,"Once in court, it's important that you know that debt collectors MUST prove to the judge that they have the right to collect your debt that you owed to another company.
-<br><br>
-At Court, ask the judge for the following papers: 
-<br><br>
-The contract you signed, showing everything you agreed to, like the late fees and interest rates.",More Information,Defense in GS.pdf,,,,
+id,heading,body,button1name,button1link,button2name,button2link,button3name,button3link,button4name,button4link
+,,,,,,,,,,
+1,"First, we need to know...","Have you ever been sued by a company that says you owe them money?<br><br>You should have received a paper named ""Civil Warrant,"" or ""Sworn Account.""<br><br>The ""Civil Warrant"" would say for ""any lawful officer"" to ""summon"" you (with your name on the paper) to appear in a court.<br><br>The ""Sworn Account"" should swear that you owe a company money and be signed by that company.""",Yes,2,No,3,More Info About a Sworn Account,Debt Collection Sworn Account.pdf,,
+,,,,,,,,,,
+2,Do you recognize the debt collector?,"Is the company calling or mailing you one that you knew you owed money to?<br><br>(Did you have a credit card with them, buy a car from them, or borrow money from them?)",Yes,4,No,5,,,,
+,,,,,,,,,,
+3,Do you recognize the debt collector?,"Is the company calling or mailing you one that you knew you owed money to?<br><br>(Did you have a credit card with them, buy a car from them, or borrow money from them?)",Yes,4,No,6,,,,
+,,,,,,,,,,
+4,"Debt laws don't apply to your situation, but we can still help you.","Because the company suing you is the one you originally borrowed money from, the debt collection laws do not apply to your debt.<br><br>There are ways to lower the amount of money you will need to pay each month. Follow the button below to learn about them.",Learn More About Lowering Your Monthly Payments,7,,,,,,
+,,,,,,,,,,
+5,Have you been sued about this debt and lost in court?,"This could happen in a couple of ways:<br><br>If you were sued and went to court, and the judge said the company won, then click ""Yes"" and follow the instructions""<br><br>If you were sued and did not go to court, then click ""Yes"" and follow the instructions\nIf you went to court and made an agreement with the company suing you, click ""Yes"" and follow the instructions",Yes,7,No,8,,,,
+,,,,,,,,,,
+6,You have rights!,"The law tells bill collectors what they can and can't legally do when they try to collect money from you!<br><br>Most importantly, a bill collector must send you proof that they have the right to collect your debt! Without that, you should not owe them money.<br><br>Continue on to learn how to stop the harassing calls and letters!",Learn How to Stop Harassing Calls,9,Learn How to Stop Harassing Letters,10,,,,
+,,,,,,,,,,
+7,You can make your payments affordable!,"You may be able to make the amount of money you pay each month smaller. You can file a Slow Pay application to reduce the amount of money you must pay every month. You can also file a Personal Property Exemption to make sure certain pieces of your property can't be used to pay off your debt.<br><br>You can learn more information about Personal Property Exemptions or Slow Pay Motions on the following pages.",Learn More About Personal Propery Exemptions,11,Learn More About Slow Pay Motions,12,,,,
+,,,,,,,,,,
+8,We need to know about your property,"You can decide whether you want to go to Court and fight the debt. If you have any of the following, you should go to the Court to protect yourself:<br><br>1. Money in a bank account<br><br>  2. A car that you own<br><br>  3. A home that you own or that is worth more money than you still owe on it<br><br>  4. A job that gives you a paycheck (this does not include checks that you get from social security or disability), Do you have any of the above?",Yes,13,No,14,,,,
+,,,,,,,,,,
+9,You can stop their phone calls in your workplace!,"You must ask debt collectors by mail to stop their phone calls to your work.<br><br>Download and print the letter below and fill it out to send to the harassing collector(you can email the letter to yourself to print on a computer if your phone isn't connected to a printer).",Download Letter,Bill Collectors.pdf,,,,,,
+,,,,,,,,,,
+10,You can stop their letters!,"You must ask them by mail to stop contacting you. If you use the letter below, they may only contact you to show proof of what you owe or to tell you they are suing you.<br><br>Download, print and fill out the letter below (you can email the letter to yourself to print on a computer if your phone is not connected to a printer).",Download Letter,Bill Collectors.pdf,,,,,,
+,,,,,,,,,,
+11,What is a Personal Property Exemption?,"A Personal Property Exemption is a paper you can file with the court to protect certain kinds of property you own from being taken and sold to pay off your debt.<br><br>This can save up to $10,000 worth of personal property including money, furniture, cars and other kinds of property except for land.<br><br>Talk to the Court Clerk or your local Legal Aid Society office to get more information on filing a Personal Property Exemption, which usually costs around $25.",More Information,PPE.pdf,Learn More About Slow Pay Motions,12,,,,
+,,,,,,,,,,
+12,What is a Slow Pay Motion?,"If you and the debt collector can't agree to a payment plan you can afford, then you can file a paper called a Stay of Garnishment and Slow Pay Motion with the court. A clerk at the court can help you file this.<br><br>Once you have filed a Slow Pay Motion, the Clerk will ask you to come back to court on a specific day. Before that day you should write down your monthly bills to show the judge, like your rent, lights and heat, food and other necessary costs.<br><br>When you come back to court on the day you are told to, the judge will ask you questions about your income and the people you support and decide how much you need to pay each month. Make sure you can afford the amount of money you tell the judge you can pay each month.<br><br>If an emergency makes you have to miss your court date, call the court and let them know as soon as possible!",More Information,Slow Pay Motion.pdf,Learn More About Personal Property Exemptions,11,,,,
+,,,,,,,,,,
+13,You should go to court.,"If you do not show up, the debt collector will likely take money from your bank account or take things you own like your car or your home pay off your debts.<br><br>Have you been sued about other debts or do you owe someone who may sue you in the future? If so, you might want to get more information about bankruptcy.<br><br>Do not panic!<br><br>There are multiple steps you can take to help ensure this does not happen.<br><br>Before you go to court, you should file a Sworn Denial. A Sworn Denial means you don't know if you owe the money to the company saying you owe them. It does not mean you don't owe them money. It means you want them to prove you owe the money.<br><br>You can write a letter to the collector to determine what debt they are talking about if you are unsure.<br><br>There are some things you should know about when you go to court. Follow the button below to find out more about the process of representing yourself in court.",Tell Me More About a Sworn Denial,15,Tell Me More About Writing a Letter,16,Tell Me More About Going to Court,17,Tell Me More About Bankruptcy,18
+,,,,,,,,,,
+14,Consider using a Personal Property Exemption,"Even though you do not have any of the things on the previous page that a collector could take to pay off your debt, it's smart and safe to file a Personal Property Exemption.<br><br>A Personal Property Exemption is a paper you can file with the court to protect certain kinds of property you own from being taken and sold to pay off your debt.<br><br>This can save up to $10,000 worth of personal property including money, furniture, cars and other kinds of property.<br><br>Talk to the Court Clerk or your local Legal Aid Society office to get more information on filing a Personal Property Exemption which usually costs around $25.",More Information,PPE.pdf,,,,,,
+,,,,,,,,,,
+15,Sworn Denials,"A Sworn Denial tells the Court that you deny owing the debt to the person or company trying to collect on it and that you demand proof that you owe the debt.<br><br>You can download and print the letter below to use as a Sworn Denial at the Courthouse. (You can email the letter to yourself after downloading it if your phone isn't connected to a computer).<br><br>DO NOT FILL OUT THE LETTER UNLESS you are in front of a notary! If you do not know where to find a notary, take your Sworn Denial to the Courthouse. The Clerks there can sign as notaries.",More Info about Sworn Denials,LAS Sworn Denial.pdf,,,,,,
+,,,,,,,,,,
+16,Writing a Letter,"Use the Letter below to demand the debt collector show proof of your debt and clarify what exactly it is you owe if you do not remember owing the money. You can download and print the letter from this app, or you can email the letter to yourself if your phone isn't connected to a printer.<br><br>This letter will also tell the collector to stop contacting you about the debt for any reason other than to explain the debt that you owe and why you owe it.",Download Letter,Bill Collectors.pdf,,,,,,
+,,,,,,,,,,
+17,What to expect in court,"Once in court, it's important that you know that debt collectors MUST prove to the judge that they have the right to collect your debt that you owed to another company.<br><br>At Court, ask the judge for the following papers: <br><br>The contract you signed, showing everything you agreed to, like the late fees and interest rates.",More Information,Defense in GS.pdf,,,,,,
+,,,,,,,,,,
+18,Bankruptcy,"You may want to consider bankruptcy if you owe several debts that you will never be able to pay back.<br><br>A Chapter 13 bankruptcy allows you to pay back part of your debt over time. If you make all the required payments, part of your debt will be forgiven at the end.<br><br>A Chapter 7 bankruptcy is called a full bankruptcy. If you do not make enough money to make payments, but you still want to get rid of your debt, you may want to consider a Chapter 7 bankruptcy.<br><br>Not interested in Bankruptcy? Then you still need to go to court.",Tell Me More About Chapter 13 Bankruptcy,Chapter 13.pdf,Tell Me More About Chapter 7 Bankruptcy.,Chapter 7.pdf,Tell Me More About Court,17,,
