@@ -33,6 +33,9 @@ function loadQuestion() {
             if (question.button3name) {
                 addButton(question.button3name, question.button3link, buttonDiv)
             }
+            if (question.button4name) {
+                addButton(question.button4name, question.button4link, buttonDiv)
+            }
         }
     });
 }
