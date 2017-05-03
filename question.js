@@ -61,7 +61,7 @@ function addButton(buttonName, nextId, buttonDiv) {
 function getQuestionById(data, targetId) {
     console.log ('length: ' + data.length);
     for (let i = 0; i < data.length; i++) {
-        console.log('target: ' + targetId + ", id: " + data[i].id);
+        //console.log('target: ' + targetId + ", id: " + data[i].id);
         if (data[i].id === targetId) {
             return data[i];
         }
