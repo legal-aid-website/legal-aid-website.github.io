@@ -2,7 +2,7 @@ let NO_VALID_ID = 'no valid id';
 
 function loadQuestion() {
     // use PapaParse library to convert csv to JSON
-    Papa.parse('https://ampeck.github.io/questions.csv', {
+    Papa.parse('https://legal-aid-website.github.io/questions.csv', {
         download: true,
         header: true,
         dynamicTyping: true,
